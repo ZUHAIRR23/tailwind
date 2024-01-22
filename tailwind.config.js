@@ -3,11 +3,10 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {
-      // membuat custom spacing
-      spacing:{
-        13: '3.25rem',
-      }
     },
+    fontFamily:{
+      'poppins' : ['poppins']
+    }
   },
   plugins: [],
 }

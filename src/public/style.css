@@ -578,6 +578,10 @@ video {
   }
 }
 
+.float-left {
+  float: left;
+}
+
 .m-6 {
   margin: 1.5rem;
 }
@@ -627,6 +631,10 @@ video {
 
 .mt-8 {
   margin-top: 2rem;
+}
+
+.mr-3 {
+  margin-right: 0.75rem;
 }
 
 .block {
@@ -776,6 +784,10 @@ video {
   text-align: center;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 .font-poppins {
   font-family: poppins;
 }
@@ -806,6 +818,10 @@ video {
 
 .font-light {
   font-weight: 300;
+}
+
+.font-semibold {
+  font-weight: 600;
 }
 
 .italic {
